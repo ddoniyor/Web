@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53887063-51ba-46f7-8520-cc66bfd73338" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/web-side.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/006d789d-a424-45ed-91b6-424d6b96a393.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/00da58de-886a-4380-bd60-c9e25029a5c6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/01e84465-4bae-4e91-9627-2fb52faca1fe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/0891033e-174b-4fce-a2db-869e39d5a768.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/0b1e1141-90b5-4567-9a83-d56e65de9cd7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/0bfde854-7d49-4f91-b28a-dac0a26bdfb9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/0f81264d-557a-4a21-bac1-535e4d2eb9e4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/0f94ff81-8c8f-4e17-8363-deea4c4d7237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/106aea37-0df7-431b-a679-5b9618614ba9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/10d618f8-cc66-4faf-a5e8-823133066f7e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/1359db2a-9b0b-40a6-8fc3-1c58857d9021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/13d77f46-482c-483c-a70f-d992eae296c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/1705160d-eb75-4409-a61f-314810807465.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/1d3e837d-3e30-4329-b923-bb87945f4466.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/1f13c1bf-1df5-410a-9ae9-8260b6429c83.asc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/200106de-6eec-4aa6-9bab-60db2ee0944b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/213ce81c-25ac-4ea6-874f-5d8344ff27be.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/2160082d-4400-4bf4-962a-481ba5053dc3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/228a8c0c-015f-43a0-a542-3742b0dc790a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/257cb93a-a2ec-4769-ba1d-6ed30bf4b258.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/262dadd3-b65c-4155-8df1-954a1e9307a2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/26e4edb8-ae4a-4714-a070-8bcb1c218f77.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/272476ba-7c7b-4a1b-bccc-66ff4a57a440.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/27f37a7a-f8c8-45cd-bc5b-7e1e974b3c5e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/294fe416-149b-490d-9d53-31d84d7fdc6c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/2a2ab856-5151-49a2-b205-c04049e83a73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/2adbd081-0620-4d4d-ab7e-e3e5089b579f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/2bf7f4e9-bb5c-4c3e-9691-c5d24a9ba9d1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/2bfd3a09-bc7b-45d2-9408-63ef659643e6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/2e39caa4-dca1-4a08-824e-02dada5e0063.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/2f4faedc-38db-4fc8-856f-86020ad3a7ff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/33f7ee4f-9568-40c2-929d-d81e72c6c6f7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/3598492c-d997-43ea-9462-b754916ee4ae.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/35ce7ca8-da8b-4389-a89d-6b28ea296738.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/37bf6fd2-4d8e-4ff4-b8e7-b09c3179a837.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/3946eb72-24a7-463a-b98c-a048ec8735e2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/3a598703-8c42-4dc1-8062-b6c297cba266.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/3d4e58e0-b614-45f0-a41c-1d259f1156e5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/3d6cfed9-445d-4628-957c-c0064b9cf2aa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/3f8c2e19-9d49-444e-84fc-05e1fc3fda7a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/425b5885-b244-4114-a3d5-3aa3b020e0d3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/4415ad21-82f7-4325-aa4d-379f5dc2e1b9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/468f1eb5-eae5-421c-b0c0-b6fb107016b1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/46c5c61b-9faa-4281-901c-354de2291a76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/49d541e2-cf52-4164-b5ec-70f08ff15ab0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/4b82903d-3a85-40f5-a3b6-c1997d88c5c4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/4ba6a317-8444-4501-b763-be0290ed336c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/4f1b2874-df2e-42b5-b2d3-0bfd0c75150a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/4fe405cc-ec18-44c1-9309-2d030d1fbf3d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/5240b8e3-707e-4acc-926e-314f65e831f0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/556d8319-b402-4741-bd8b-ee0e5c94d9d6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/5708f0e1-baec-4d2b-8af8-d2fc044679da.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/581a689f-a365-453b-a082-963959ab69e7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/58ed8367-a0b6-43cb-b2b1-dd1efc2d8f5b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/59be98d7-c9e9-4451-bbb3-5a51077feba4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/5a7f6dcf-9898-4288-875c-b0404a3fd90a.asc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/5d02ffc9-7809-47e6-b349-b8222f3408ed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/5e64c630-cbbc-441e-8091-bfbf46273753.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/5f6b8eee-c3fd-422b-a22f-1cc6e8e0167a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/608fe2e7-0248-4b0d-b942-77f040a254f4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/615e5195-2a00-4b13-885c-63fc1b9589d6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/617515d0-c856-4fd3-b6b2-3c8baf79cf76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/62212d78-2122-42c3-bee3-ad865afebd11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/62595727-acf9-4e2e-ab59-dfdb21aedf23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/62c2fb6c-455a-4e71-b3f0-1cfc77ef677e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/65649882-0d79-4961-ba74-16eb073f433d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/65ecdb18-ab96-49b0-857f-d6d7b5b58152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/667a7daa-4867-4722-81a0-fd9765f0c041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/6c2eca79-a09e-43f9-9b93-dd593722d3e4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/71d932a6-0c5c-4cc0-a524-cd0b56f028cb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/74a2d9da-5d25-4e7b-bd3a-d28a5f17b28b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/753bcea7-65e6-4a05-abc7-3a92f8012a4e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/76779044-b9be-4a32-881b-87555bf8ee0c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/7a9efcf7-0e39-466e-9e36-6f0a2e65a12e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/8337383d-3bfb-448e-b86e-2aea2a5a3618.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/83ea2390-76d2-4625-a1a9-49dbdfc8d26c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/84ae1c24-790a-4d04-aba2-f655f8f66e56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/88c51207-20df-4540-9227-b243056b2245.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/8c0e6a93-11b4-4ad9-b746-9c29024313d8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/8d3589a2-3827-4269-bc88-5228b5c3a449.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/8d86f1ce-9565-4f09-b9fe-e32b4cebfcd2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/8e7e6bf9-4248-4249-94df-80aa2f61d95a.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/8f22f955-5bb5-4121-8793-763684b61866.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/935486d5-10ce-4a77-abb2-1c1ead4797d4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/954e64f5-b609-4775-944d-3ca32fabd540.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/976cc4c1-cb28-4bde-b79b-bad6f090239a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/99e62597-a567-4113-a94a-bdd80b936eae.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/9add5b74-f913-462a-b86a-8a60d59b7479.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/a0786a6f-cb51-4b35-a7ab-9c855bbdcf54.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/a07d1eb1-74ec-4e8a-b8d5-f3b572ea626c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/a08eadaa-ff5a-498b-96de-a0ab114df161.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/a0dcc4dd-ff9a-48da-9010-b957dfcb337e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/a2732c07-8f83-4e64-a4fb-851a9d254f79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/a35380ea-45cd-4488-b1cd-51888fca065c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/a3f3b0f3-0b33-4cf6-a1d1-4190833fe4e2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/a4442b56-0fe4-4ab2-afc4-0763603bffeb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/a46358ee-03e3-4e2b-91fb-b91a4be3c4b1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/a61e476d-676b-453f-8f4e-bdd40b458954.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/a67f4e83-1172-4dbc-b357-7b5bf8e8feff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/aff5e48b-5bf2-4eda-9093-4ed06074697f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/b0759014-a8e2-4813-af13-c03446eb476e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/b1f27386-08e7-4474-bef3-0e825a6ef309.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/b243fcb7-4256-4fd2-9f66-0f9626e8cb29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/b2a5325f-6f65-42e8-a776-39eba6f6700b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/b2b4d2cb-c0ad-43fa-b74c-942567b00b13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/b4b8ed6e-a57f-4661-ab0f-61ad13e82ce9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/b593f004-3b49-4e5f-a1b3-14d1d0629e9b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/b6399570-786b-48ac-a23b-7fccd8e5dc61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/b9e88f58-b5e3-4162-85e9-e8fc08b9b5c6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/ba8ad1aa-46f9-46d3-947d-dcb96db9a42b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/bdf1931e-56bb-4520-b7cc-1121e08a0881.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/c33ad686-b4ae-4f27-b089-cfcafc7be73c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/c58a163c-2ba6-498a-99c3-e9a63fbd5bb0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/c5a94af7-32de-48ed-9470-785362a98f8c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/ca45bf61-e6aa-4641-bed0-ab655105f7e1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/cc5a9ef8-2e42-4413-98cb-0e4be04dd68c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/cd48f999-58e3-4e46-8f6c-d895c6e56e4b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/d2639d41-c715-4135-b706-2e7f50a92a1c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/d369a467-0901-4bc5-be70-d603e89d9d07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/d55ae20b-0d75-4e38-868d-0a6687cc6531.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/d74d2e07-c1ae-4f27-b4ec-93f8f39ecea7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/d77b4d00-4bbc-4c6e-a00c-7a71516d9a1b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/d79547b0-548f-40cd-b987-a2d91389ea44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/d98adb1b-3e22-4b97-8054-57a04a92fa37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/dbc0fcd7-4a24-48d9-905d-23571a409856.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/dc934241-925c-40e7-b267-3aa62d6e36d6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/e1097b39-36b6-488f-95c7-477c34e8cd14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/e19a3bc3-4c55-4f1d-898b-3fd433df4b24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/e37a0333-1f8f-45f7-87a4-4fe7342e518c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/e8346681-b672-4725-ac95-50daaf91620d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/e8a703ef-e156-4764-978d-0918f33a7665.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/ea315a25-8e8d-466b-96bd-d988ccd08131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/ec4bc1d4-cb3f-48bb-9e7f-3e241a5ab31e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/ef520268-9378-449f-a5df-3ad45b9912f5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/f0e0a921-dd7c-4cd7-99b9-204a2a412cf7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/f488fcaa-fa4c-4184-a944-a2d885743ca5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/f5fc8d2e-f68d-4a01-b2a4-21e20b42b126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/fd9817b9-6f9d-4bc2-8cb2-7f42be054245.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/media/fded2cb5-d6cf-43df-9e72-0f303ed1fb1a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/templates/admin/passport.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/templates/base.gohtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/templates/index.gohtml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1ZOrJhEcM5x0DO4LqJDOmBiwFD5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+</project>

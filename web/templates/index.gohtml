@@ -1,0 +1,26 @@
+{{/* берём шаблон base и встраиваем туда block body */}}
+{{template "base" . }}
+{{define "body"}}
+<div class="container">
+    <div class="row">
+        <div style="color: darkolivegreen" align="center" class="col"><h1>Uploader</h1></div>
+    </div>
+    {{/*  Emmet: .row > .col + Tab */}}
+    <div class="row">
+        {{ range .Passport }}
+            <div class="col-4">
+                <div class="card">
+                    <img src="../media/{{ .FileOne }}" class="card-img-top" alt="...">
+                    <img src="../media/{{ .FileTwo }}" class="card-img-top" alt="...">
+                    <img src="../media/{{ .FileThree }}" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ .Name }}</h5>
+                        <h5 class="card-title">{{ .Phone }}</h5>
+
+                    </div>
+                </div>
+            </div>
+        {{ end }}
+    </div>
+</div>
+{{end}}

@@ -1,0 +1,76 @@
+{{/* берём шаблон base и встраиваем туда block body */}}
+{{template "base" . }}
+{{define "body"}}
+    <div class="container">
+        <div class="row">
+            <div style="color: darkgreen" align="center" class="col"><h1>Uploader</h1></div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <form action="/admin/passport/save" method="post" enctype="multipart/form-data">
+                    {{/* mime type */}}
+
+                        <input type="hidden"  name="action" value="save" >
+                        <input type="hidden" id="name" name="image" accept="image/*">
+                        <input type="hidden" id="name2" name="image2" accept="image/*">
+                        <input type="hidden" id="name3" name="image3" accept="image/*">
+
+                        <input type="hidden" id="passport-name" name="name" placeholder="Имя" required>
+                        <input type="hidden" id="phone" name="phone" placeholder="Номер телефона" required>
+
+                    <label for="oldpassport">Паспорт</label>
+                    <button id="oldpassport" >add passport</button>
+
+                    <script>
+                        let nameEl = document.getElementById('name');
+                        let nameTwoEl = document.getElementById('name2');
+                        let nameThreeEl = document.getElementById('name3');
+
+                        let passportnameEl = document.getElementById('passport-name')
+                        let phoneEl = document.getElementById('phone');
+
+                        let oldPassportEl = document.getElementById('oldpassport');
+                        console.dir(oldPassportEl);
+                        oldPassportEl.onclick = evt => {
+                            evt.preventDefault();
+                            nameEl.type = "file"
+                            nameTwoEl.type = "file";
+                            nameThreeEl.type= "file";
+                            passportnameEl.type = "text";
+
+                            phoneEl.type = "number";
+
+                            console.log('good')
+                        }
+
+
+                    </script>
+
+                    <button>Добавить</button>
+                </form>
+            </div>
+        </div>
+        {{/*  Emmet: .row > .col + Tab */}}
+        <div class="row">
+            {{ range .Passport }}
+                <div class="col-4">
+                    <div class="card">
+                        <img src="../media/{{ .FileOne }}" class="card-img-top" alt="...">
+                        <img src="../media/{{ .FileTwo }}" class="card-img-top" alt="...">
+                        <img src="../media/{{ .FileThree }}" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ .Name }}</h5>
+                            <h5 class="card-title">{{ .Phone }}</h5>
+
+
+                            <form method="post" action="/admin/passport/remove">
+                                <input type="hidden" name="id" value="{{.Id}}">
+                                <button class="btn btn-primary">Remove</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+    </div>
+{{end}}
